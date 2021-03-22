@@ -111,7 +111,6 @@ nav {
     font-weight: 300;
     width: auto;
     color: white;
-    left: 50%;
     text-align: center;
     text-shadow: 1px 2px 4px rgba(0,0,0, 0.5);
 }
@@ -134,7 +133,7 @@ nav {
 
 .content-body 
 {
-    position: relative;
-    text-align: center;
+    position: fixed;
+    text-align:center;
 }
 
